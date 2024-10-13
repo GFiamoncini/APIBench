@@ -1,6 +1,6 @@
 # API de Consulta de CEP
 
-Este programa em Go realiza consultas de CEP em duas APIs diferentes: BrasilAPI e ViaCEP. O objetivo é determinar qual API responde mais rapidamente para um determinado CEP e exibir o resultado. 
+Este programa em Go realiza consultas de CEP em dois endpoints diferentes: BrasilAPI e ViaCEP. O objetivo é determinar qual API responde mais rapidamente para um determinado CEP e exibir o resultado. 
 
 ## Funcionamento
 
